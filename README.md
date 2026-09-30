@@ -1,5 +1,9 @@
 # Fake News Classifier 
-
+> **Team project:** developed as a group project with
+> [Renad Almaghthawi](https://github.com/RenadAlmaghthawi) (GitHub) and
+> [Lina](https://www.linkedin.com/in/linaashammari) (LinkedIn).
+>
+> Original repository: https://github.com/RenadAlmaghthawi/NLP_project
 ##  Project Overview
 
 This project is a classifier model built to classify news articles as 'Real' or 'Fake' using **Natural Language Processing (NLP)** techniques. The model utilizes machine learning and deep learning approaches to distinguish between real and fake news articles accurately.
